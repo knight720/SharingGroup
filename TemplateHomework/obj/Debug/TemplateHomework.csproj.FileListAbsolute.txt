@@ -7,3 +7,10 @@ C:\Users\Peter Ji\Desktop\data\MyProj\DesignPattern\template\homework\TemplateHo
 C:\repository\PeterJi\SharingGroup_Homework\TemplateMethodPattern\TemplateHomework\bin\Debug\TemplateHomework.exe.config
 C:\repository\PeterJi\SharingGroup_Homework\TemplateMethodPattern\TemplateHomework\obj\Debug\TemplateHomework.exe
 C:\repository\PeterJi\SharingGroup_Homework\TemplateMethodPattern\TemplateHomework\obj\Debug\TemplateHomework.pdb
+D:\CodeTest\SharingGroup\TemplateHomework\bin\Debug\TemplateHomework.exe.config
+D:\CodeTest\SharingGroup\TemplateHomework\bin\Debug\TemplateHomework.exe
+D:\CodeTest\SharingGroup\TemplateHomework\bin\Debug\TemplateHomework.pdb
+D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.csproj.CoreCompileInputs.cache
+D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.exe
+D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.pdb
+D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.csprojResolveAssemblyReference.cache

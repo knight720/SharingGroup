@@ -12,9 +12,7 @@ namespace TemplateHomework
         {
             Console.WriteLine("========================通知信============================");
             NotifyMail notifyMail = new NotifyMail("通知信","peterji@gmail.com;");
-            notifyMail.MakeMailTitle();
-            notifyMail.MakeMailReceiver();
-            notifyMail.MakeMailBody();
+            notifyMail.SendProcess();
             notifyMail.Send();
 
             Console.WriteLine("========================警告信============================");
