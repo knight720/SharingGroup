@@ -9,11 +9,8 @@ namespace TemplateHomework
     public class ErrorMail : TemplateMail
     {
 
-        public ErrorMail(string title, string receiver, bool noticeSupervisor = false)
+        public ErrorMail(string title, string receiver, bool noticeSupervisor = false):base(title, receiver, noticeSupervisor)
         {
-            _title = title;
-            _receiver = receiver;
-            _noticeSupervisor = noticeSupervisor;
         }
 
         protected override void AddReceiverSupervisor()

@@ -9,10 +9,8 @@ namespace TemplateHomework
     public class NotifyMail : TemplateMail
     {
 
-        public NotifyMail(string title, string receiver)
+        public NotifyMail(string title, string receiver):base(title,receiver)
         {
-            _title = title;
-            _receiver = receiver;
         }
 
         protected override void MakeMailBody()
@@ -24,7 +22,7 @@ namespace TemplateHomework
 
         protected override void AddReceiverSupervisor()
         {
-            throw new NotImplementedException();
+            //// Do Nothing
         }
     }
 }

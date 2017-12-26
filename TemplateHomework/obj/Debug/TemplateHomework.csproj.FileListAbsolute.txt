@@ -13,4 +13,3 @@ D:\CodeTest\SharingGroup\TemplateHomework\bin\Debug\TemplateHomework.pdb
 D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.csproj.CoreCompileInputs.cache
 D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.exe
 D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.pdb
-D:\CodeTest\SharingGroup\TemplateHomework\obj\Debug\TemplateHomework.csprojResolveAssemblyReference.cache

@@ -13,6 +13,13 @@ namespace TemplateHomework
         protected string _body;
         protected bool _noticeSupervisor;
 
+        public TemplateMail(string title, string receiver, bool noticeSupervisor = false)
+        {
+            _title = title;
+            _receiver = receiver;
+            _noticeSupervisor = noticeSupervisor;
+        }
+
         public void MakeMailTitle()
         {
             Console.WriteLine("標題:" + _title);
